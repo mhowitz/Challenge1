@@ -8,6 +8,8 @@ body {
     background-color: #d9dcd6;
 }
 
+/* style of header section*/
+
 header {
     padding: 20px;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
@@ -49,7 +51,7 @@ a {
 p {
     font-size: 16px;
 }
-/*need to add an alt attribute to the hero image*/
+/*Style of Hero*/
 .hero {
     height: 800px;
     width: 100%;
@@ -59,23 +61,29 @@ p {
     background-position: center;
 }
 
-.float-left {
-    float: left;
-    margin-right: 25px;
-    max-height: 200px;
-}
-
-.float-right {
-    float: right;
-    margin-left: 25px;
-    max-height: 200px;
-}
+/*style of services and benefits section*/
 
 main {
     width: 75%;
     display: inline-block;
     margin-left: 20px;
 }
+/*style of services section*/
+
+.service {
+    margin-bottom: 20px;
+    padding: 50px;
+    height: 300px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    background-color: #0072bb;
+    color: #ffffff;
+}
+
+.service h2 {
+    margin-bottom: 20px;
+    font-size: 36px;
+}
+/*style of benefits section*/
 
 .benefits {
     margin-right: 20px;
@@ -103,21 +111,21 @@ main {
     margin: 10px auto;
     max-width: 150px;
 }
-
-.service {
-    margin-bottom: 20px;
-    padding: 50px;
-    height: 300px;
-    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
-    background-color: #0072bb;
-    color: #ffffff;
+.float-left {
+    float: left;
+    margin-right: 25px;
+    max-height: 200px;
 }
 
-.service h2 {
-    margin-bottom: 20px;
-    font-size: 36px;
+.float-right {
+    float: right;
+    margin-left: 25px;
+    max-height: 200px;
 }
-/* condensed all h2 and h3 header styles and the div styles into one */
+
+
+/*Footer Style*/
+
 footer {
     padding: 30px;
     clear: both;
