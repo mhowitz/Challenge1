@@ -1,25 +1,25 @@
 # Challenge1
 
-##Description
+## Description
 This is an updated version of the Horiseon website that meets accesibility standards.
 When the code is viewed, the user can see semantic HTML elements.
 When the CSS style sheet is viewed, it is condensed into only the necessary elements.
 I learned how much easier it is to view and edit code when it is well organized with semantic HTML elements and I learned how to appropriatley condense CSS elements so there are not too many.
 I also learned how important accessibility standards are so throughout this course I can create a habit to make all of my future code accessible.
 
-##Installation
+## Installation
 Click the link github URL link to view the website.
 To view the code, click the link to the github repository. Download the repository to your computer and unzip the file. Open the index.html file to view the HTML code. Open the style.css file to view the style sheet.
 
 
-##Usage
+## Usage
 When the index.html is open in the browser, the Horiseon website is shown. When the user clicks the links on the top right-hand corner of the page, the website navigates to that section of the webpage.
 
-##Credits
+## Credits
 Triology Education Service
 Eric Sayer
 
-##License
+## License
 MIT License
 
 Copyright (c) 2021 Mikayla Howitz
